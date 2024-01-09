@@ -11,6 +11,16 @@ Welcome to Chat_Bot_GPT, a Django project integrating a chatbot powered by OpenA
 - **User Authentication**: Implements user authentication for personalized chat experiences.
 - **Chat History**: Stores chat interactions, providing users with a history of their conversations.
 
+### Chat
+![Home Page](https://raw.githubusercontent.com/Amanastel/Chat_Bot_GPT/main/assets/chat1.png)
+
+### Chat
+![Our Services Page](https://raw.githubusercontent.com/Amanastel/Chat_Bot_GPT/main/assets/chat2.png)
+
+### Chat
+![Upload PDF Document](https://raw.githubusercontent.com/Amanastel/Chat_Bot_GPT/main/assets/chat3.png)
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
